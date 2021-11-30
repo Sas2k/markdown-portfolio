@@ -1,2 +1,2 @@
-🖥️ - <strong>Toshiba Satelite</strog> <br>
-🪟 - <em>Windows 10<em>
+🖥️ - **Toshiba Satelite** <br>
+🪟 - _Windows 10_
